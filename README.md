@@ -1,3 +1,2 @@
-# MyNewRepo
-Practice files
-Edited ones
+# My Portfolio Website
+
